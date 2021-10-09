@@ -26,5 +26,17 @@ lot_summary <- suspension_Coils_data %>% group_by(Manufacturing_Lot) %>% summari
 lot_summary
 
 
+#Deliverable 3: T-Test on Suspension Coils
+#compare sample versus population means
+all_Lots = t.test(suspension_Coils_data$PSI,mu=1500)
+#Manufactoring lot 1
+lot1 = t.test(subset(suspension_Coils_data, Manufacturing_Lot == "Lot1")$PSI,mu=1500)
+lot1
+#Manufactoring lot 2
+lot2 = t.test(subset(suspension_Coils_data, Manufacturing_Lot == "Lot2")$PSI,mu=1500)
+lot2
+#Manufactoring lot 3
+lot3= t.test(subset(suspension_Coils_data, Manufacturing_Lot == "Lot3")$PSI,mu=1500)
+lot3
 
 
