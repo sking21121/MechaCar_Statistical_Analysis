@@ -61,12 +61,14 @@ lot3.png<img width="647" alt="image" src="https://user-images.githubusercontent.
   All lots: p-value is .06 > .05(significance level) = p-value is above the assumed significance level. Therefore, we would state
   that there is not enough evidence to reject the null hypothesis and we can confirm our two samples are statistically similar.
   
-  Lot 1: p-value is 1 > .05(significance level) = 
+  Lot 1: p-value is 1 > .05(significance level) = p-value is above the assumed significance level. Not enough evidence to reject
+  the null hypothesis.
   
-  Lot 2: p-value is .60 > .05(significance level) =
+  Lot 2: p-value is .60 > .05(significance level) = p-value is above the assumed significance level. Not enough evidence to reject
+  the null hypothesis.
   
   Lot 3: p-value is .04 < .05(significance level) = p-value is below the significance level, we can say there is evidence to reject
-  our null hypothesis
+  the null hypothesis.
   
 
 
