@@ -19,7 +19,8 @@ Perform multiple linear regression analysis to identify which variables in the d
 -Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not? 
 
 ## Summary Statistics on Suspension Coils
-Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots. 
+Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.
+
 The following PSI metrics for each lot: mean, median, variance, and standard deviation
 
 totalsummary.png<img width="591" alt="image" src="https://user-images.githubusercontent.com/86200136/136700196-fb7d5d13-391e-4f6d-9b5b-c41fcf77a9cb.png">
