@@ -13,11 +13,15 @@ Perform multiple linear regression analysis to identify which variables in the d
 
 
 -Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-
+  The ground_clearance, vehicle_length, and y Intercept are statistically unlikely to provide random amounts
+  of variance to the linear model. This is based on their p-value below the .05 significance level. 
 -Is the slope of the linear model considered to be zero? Why or why not?
-
+  The p-value of our model is 5.35 x 10^-11. This value is smaller than the .05 significance level. Therefore
+  there is sufficent evidence to reject the null hypothesis, which means that the slope of our linear model
+  is not zero.
 -Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not? 
-
+  71% of the variablilty of our dependent variable (mpg) is explained using this linear model. Therefore the linear
+  model does predict mpg of MechaCar prototypes effectively.
 ## Summary Statistics on Suspension Coils
 Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.
 
