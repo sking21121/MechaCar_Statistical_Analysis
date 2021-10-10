@@ -34,17 +34,21 @@ lotsummary.png<img width="520" alt="image" src="https://user-images.githubuserco
 
 
 
-Deliverable 3: T-Test on Suspension Coils
-Run t-tests to determine if the manufacturing lots are statistically different from the mean population 
-del3alllots.png<img width="431" alt="image" src="https://user-images.githubusercontent.com/86200136/136700464-5b9c9f29-188c-4625-8ec9-29feac1517df.png">
-del3lot1.png<img width="652" alt="image" src="https://user-images.githubusercontent.com/86200136/136700473-14fa26b4-07eb-42f7-86cd-e8882ea50202.png">
-del3lot2.png<img width="658" alt="image" src="https://user-images.githubusercontent.com/86200136/136700481-22740353-b3b1-4e3c-a670-f81c7675892d.png">
-del3lot3.png<img width="647" alt="image" src="https://user-images.githubusercontent.com/86200136/136700487-e51e1331-9dcb-487c-9354-4bd8c3fc2ed5.png">
-
-
-
-
 ## T-Tests on Suspension Coils
+Run t-tests to determine if the manufacturing lots are statistically different from the mean population 
+
+alllots.png<img width="431" alt="image" src="https://user-images.githubusercontent.com/86200136/136700464-5b9c9f29-188c-4625-8ec9-29feac1517df.png">
+
+lot1.png<img width="652" alt="image" src="https://user-images.githubusercontent.com/86200136/136700473-14fa26b4-07eb-42f7-86cd-e8882ea50202.png">
+
+lot2.png<img width="658" alt="image" src="https://user-images.githubusercontent.com/86200136/136700481-22740353-b3b1-4e3c-a670-f81c7675892d.png">
+
+lot3.png<img width="647" alt="image" src="https://user-images.githubusercontent.com/86200136/136700487-e51e1331-9dcb-487c-9354-4bd8c3fc2ed5.png">
+
+
+
+
+
 
 ## Study Design: MechaCar vs Competition
 Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
