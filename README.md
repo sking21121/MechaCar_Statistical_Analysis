@@ -75,4 +75,26 @@ lot3.png<img width="647" alt="image" src="https://user-images.githubusercontent.
 
 
 ## Study Design: MechaCar vs Competition
-Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
+Design a statistical study to compare speed of the MechaCar vehicles against speed from other manufacturers. We want to test if
+MechaCars are faster based on the cars 0 to 60mph time. 
+
+What metric or metrics are you going to test?
+The dependent variable is the 0 to 60 time.
+The independent variables are horsepower, vehicle weight, engine size, and fuel efficiency.
+
+What is the null hypothesis or alternative hypothesis? 
+There is no relationship between the 0 to 60pmg time and the  variables horsepower, vehicle weight, engine size, and fuel efficiency.
+
+What statistical test would you use to test the hypothesis? And why? 
+we would need to test our question with a multiple linear regression model. If we were to use a multiple linear regression model, we
+would need to collect numerical variables, such as engine size, fuel efficiency, vehicle weight, and engine horsepower. Once we select the variables to collect, we would estimate sample size based on how low of a significance level is necessary and how sensitive the measurements are.
+
+What data is needed to run the statistical test?
+Continuous data from independent research or manufacturers' data.
+
+
+
+
+
+
+
